@@ -20,7 +20,7 @@ class MasterViewController: UITableViewController, NSFetchedResultsControllerDel
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        var apiKey = "AIzaSyCWHQIxPFhF5hG-UIppwBB1zl2BBeRO4zg"
+        var apiKey = "provide your blogger api key here"
         var blogId = "10861780"
         
         //we are setting up a an AppDelegate to deal with core data.
